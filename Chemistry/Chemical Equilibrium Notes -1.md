@@ -31,8 +31,8 @@ $$
 
 Because of this:
 
-- Concentration of reactants becomes constant
-- Concentration of products becomes constant
+- Concentration of reactants becomes constant  
+- Concentration of products becomes constant  
 
 Example reaction:
 
@@ -169,9 +169,13 @@ Example:
 
 $$
 [N_2] = 1.0 \, M
-$$$$
+$$
+
+$$
 [H_2] = 3.0 \, M
-$$$$
+$$
+
+$$
 [NH_3] = 0.5 \, M
 $$
 
@@ -215,8 +219,8 @@ Remain constant at equilibrium.
 
 Two main types exist.
 
-1. Physical equilibrium
-2. Chemical equilibrium
+1. Physical equilibrium  
+2. Chemical equilibrium  
 
 ---
 
@@ -370,7 +374,9 @@ Where:
 
 $$
 [A] = \text{concentration of A}
-$$$$
+$$
+
+$$
 [B] = \text{concentration of B}
 $$
 
@@ -399,7 +405,7 @@ Different forms:
 Gas → partial pressure or concentration  
 Solution → molar concentration  
 Pure solid → constant  
-Pure liquid → constant
+Pure liquid → constant  
 
 Because solids and liquids remain constant, they **do not appear in equilibrium expressions**.
 
@@ -437,7 +443,7 @@ $$
 
 Where:
 
-- $$K_c$$ = equilibrium constant
+- $$K_c$$ = equilibrium constant  
 - Concentrations are taken **at equilibrium**
 
 This value remains **constant at constant temperature**.
@@ -830,7 +836,7 @@ ICE stands for:
 
 Initial  
 Change  
-Equilibrium
+Equilibrium  
 
 Used to calculate equilibrium concentrations.
 
@@ -846,9 +852,13 @@ Initial concentrations:
 
 $$
 [H_2] = 1
-$$$$
+$$
+
+$$
 [I_2] = 1
-$$$$
+$$
+
+$$
 [HI] = 0
 $$
 
@@ -858,9 +868,13 @@ Change during reaction:
 
 $$
 H_2 = -x
-$$$$
+$$
+
+$$
 I_2 = -x
-$$$$
+$$
+
+$$
 HI = +2x
 $$
 
@@ -870,9 +884,13 @@ Equilibrium concentrations:
 
 $$
 [H_2] = 1 - x
-$$$$
+$$
+
+$$
 [I_2] = 1 - x
-$$$$
+$$
+
+$$
 [HI] = 2x
 $$
 
@@ -1020,9 +1038,13 @@ Core formulas:
 
 $$
 K_c = \frac{[products]^{coeff}}{[reactants]^{coeff}}
-$$$$
+$$
+
+$$
 K_p = K_c (RT)^{\Delta n}
-$$$$
+$$
+
+$$
 \Delta n = n_{products} - n_{reactants}
 $$
 
@@ -1032,9 +1054,13 @@ Reaction direction rules:
 
 $$
 Q < K \Rightarrow \text{Forward reaction}
-$$$$
+$$
+
+$$
 Q > K \Rightarrow \text{Backward reaction}
-$$$$
+$$
+
+$$
 Q = K \Rightarrow \text{Equilibrium}
 $$
 
@@ -1042,10 +1068,10 @@ $$
 
 Important rules:
 
-- Pure solids and liquids are excluded
-- Coefficients become powers
-- Only gases and aqueous species appear
-- Equilibrium constant depends only on temperature
+- Pure solids and liquids are excluded  
+- Coefficients become powers  
+- Only gases and aqueous species appear  
+- Equilibrium constant depends only on temperature  
 
 ---
 
@@ -1071,7 +1097,9 @@ General form:
 
 $$
 aA + bB \rightleftharpoons cC + dD
-$$$$
+$$
+
+$$
 K_c = \frac{[C]^c[D]^d}{[A]^a[B]^b}
 $$
 
@@ -1121,9 +1149,13 @@ At equilibrium:
 
 $$
 [H_2] = 0.5\,M
-$$$$
+$$
+
+$$
 [I_2] = 0.5\,M
-$$$$
+$$
+
+$$
 [HI] = 2.0\,M
 $$
 
@@ -1143,9 +1175,13 @@ Substitute values:
 
 $$
 K_c = \frac{(2.0)^2}{(0.5)(0.5)}
-$$$$
+$$
+
+$$
 K_c = \frac{4}{0.25}
-$$$$
+$$
+
+$$
 K_c = 16
 $$
 
@@ -1251,9 +1287,13 @@ So:
 
 $$
 K_p = 0.5(24.63)^{-2}
-$$$$
+$$
+
+$$
 K_p = 0.5 \times \frac{1}{606.7}
-$$$$
+$$
+
+$$
 K_p \approx 8.2 \times 10^{-4}
 $$
 
@@ -1277,9 +1317,13 @@ At some time:
 
 $$
 [H_2] = 1
-$$$$
+$$
+
+$$
 [I_2] = 1
-$$$$
+$$
+
+$$
 [HI] = 2
 $$
 
@@ -1301,7 +1345,9 @@ Substitute:
 
 $$
 Q = \frac{2^2}{1 \times 1}
-$$$$
+$$
+
+$$
 Q = 4
 $$
 
@@ -1309,7 +1355,9 @@ Now compare:
 
 $$
 Q < K
-$$$$
+$$
+
+$$
 4 < 50
 $$
 
@@ -1333,9 +1381,13 @@ Initial concentrations:
 
 $$
 [H_2] = 1M
-$$$$
+$$
+
+$$
 [I_2] = 1M
-$$$$
+$$
+
+$$
 [HI] = 0
 $$
 
@@ -1359,9 +1411,13 @@ Initial:
 
 $$
 H_2 = 1
-$$$$
+$$
+
+$$
 I_2 = 1
-$$$$
+$$
+
+$$
 HI = 0
 $$
 
@@ -1371,9 +1427,13 @@ Change:
 
 $$
 H_2 = -x
-$$$$
+$$
+
+$$
 I_2 = -x
-$$$$
+$$
+
+$$
 HI = +2x
 $$
 
@@ -1383,9 +1443,13 @@ Equilibrium:
 
 $$
 H_2 = 1 - x
-$$$$
+$$
+
+$$
 I_2 = 1 - x
-$$$$
+$$
+
+$$
 HI = 2x
 $$
 
@@ -1395,7 +1459,9 @@ Substitute in equilibrium expression:
 
 $$
 K_c = \frac{[HI]^2}{[H_2][I_2]}
-$$$$
+$$
+
+$$
 4 = \frac{(2x)^2}{(1-x)(1-x)}
 $$
 
@@ -1429,9 +1495,13 @@ $$
 
 $$
 [H_2] = 0.5M
-$$$$
+$$
+
+$$
 [I_2] = 0.5M
-$$$$
+$$
+
+$$
 [HI] = 1M
 $$
 
@@ -1473,7 +1543,9 @@ So:
 
 $$
 K' = \frac{1}{0.5}
-$$$$
+$$
+
+$$
 K' = 2
 $$
 
@@ -1515,7 +1587,9 @@ So:
 
 $$
 K' = 3^2
-$$$$
+$$
+
+$$
 K' = 9
 $$
 
@@ -1527,9 +1601,13 @@ Core formulas:
 
 $$
 K_c = \frac{[products]^{coeff}}{[reactants]^{coeff}}
-$$$$
+$$
+
+$$
 K_p = K_c(RT)^{\Delta n}
-$$$$
+$$
+
+$$
 \Delta n = n_{products} - n_{reactants}
 $$
 
@@ -1537,9 +1615,13 @@ Reaction direction:
 
 $$
 Q < K \rightarrow Forward
-$$$$
+$$
+
+$$
 Q > K \rightarrow Backward
-$$$$
+$$
+
+$$
 Q = K \rightarrow Equilibrium
 $$
 
