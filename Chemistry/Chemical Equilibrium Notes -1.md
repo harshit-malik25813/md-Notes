@@ -43,7 +43,9 @@ $$
 Left side → Reactants  
 Right side → Products
 
-The arrow $$\rightleftharpoons$$ means the reaction happens **in both directions**.
+The arrow $ \rightleftharpoons $
+
+ means the reaction happens **in both directions**.
 
 ---
 
@@ -443,7 +445,7 @@ $$
 
 Where:
 
-- $$K_c$$ = equilibrium constant  
+- $K_c$ = equilibrium constant  
 - Concentrations are taken **at equilibrium**
 
 This value remains **constant at constant temperature**.
@@ -468,8 +470,8 @@ $$
 
 Where:
 
-- $$[A], [B], [C], [D]$$ = equilibrium concentrations
-- $$a, b, c, d$$ = stoichiometric coefficients
+- $[A], [B], [C], [D]$ = equilibrium concentrations
+- $a, b, c, d$ = stoichiometric coefficients
 
 Important rule:
 
@@ -678,9 +680,9 @@ $$
 
 Where:
 
-- $$R$$ = gas constant
-- $$T$$ = temperature in Kelvin
-- $$\Delta n$$ = change in number of moles of gases
+- $R$ = gas constant
+- $T$ = temperature in Kelvin
+- $\Delta n$ = change in number of moles of gases
 
 ---
 
@@ -726,7 +728,7 @@ $$
 
 # 18. Special Cases
 
-### Case 1: When $$\Delta n = 0$$
+### Case 1: When $\Delta n = 0$
 
 Example:
 
@@ -760,7 +762,7 @@ $$
 
 ---
 
-### Case 2: When $$\Delta n > 0$$
+### Case 2: When $\Delta n > 0$
 
 More gaseous moles on product side.
 
@@ -772,7 +774,7 @@ $$
 
 ---
 
-### Case 3: When $$\Delta n < 0$$
+### Case 3: When $\Delta n < 0$
 
 More gaseous moles on reactant side.
 
@@ -1227,7 +1229,7 @@ $$
 
 ---
 
-# Problem 5 — Relation Between \(K_p\) and \(K_c\)
+# Problem 5 — Relation Between \($K_p$\) and \($K_c$)
 
 For the reaction:
 
@@ -1247,7 +1249,7 @@ $$
 T = 300K
 $$
 
-Find \(K_p\).
+Find $(K_p)$.
 
 Take:
 
